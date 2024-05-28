@@ -25,6 +25,8 @@
                 <textarea name="message" id="" cols="30" rows="10" placeholder="Tu Mensaje" required></textarea>
             </div>
 
+            <!-- reCAPTCHA Widget -->
+            <div class="g-recaptcha" data-sitekey="6LfY--gpAAAAADJ3YGUAj3DUNNnGf2DHgCWREXNR"></div>
             <input type="submit" class="button" value="Enviar Mensaje">
         </form>
 </div>
